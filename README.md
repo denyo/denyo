@@ -8,6 +8,9 @@
 [<img align="left" alt="denyo | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 [<img align="left" alt="denyo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+<br />
+
 ---
 
 <img align="left" alt="denyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=denyo&show_icons=true&hide_border=true&count_private=true" />
